@@ -1,0 +1,37 @@
+.img-circle {
+    max-width: 100%;
+    height: auto;
+}
+
+#aboutme {
+    background-color: #f7f1fb;
+    padding: 200px;
+    padding-bottom: 91px;
+    padding-top: 91px;
+    text-align: justify;
+}
+
+.navbar {
+    background-color: #f7f1fb;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    letter-spacing: 5px;
+    padding-left: 15px;
+}
+
+.navbar-nav li a:hover {
+color: #a72afb !important;
+}
+
+/* .p {
+    font-size: 16px;
+} */
+
+#footer {
+    background-color: #f7f1fb;
+}
